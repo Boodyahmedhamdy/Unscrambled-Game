@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">unscrumbleGame</string>
+    <string name="unscramble">Unscramble</string>
+    <string name="submit">submit</string>
+    <string name="skip">Skip</string>
+    <string name="score">Score: %1$s</string>
+    <string name="unscramble_the_word_using_all_the_letters">Unscramble the word using all the letters</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="current_word_number_on_max_words_number">%1$s/%2$s</string>
+    <string name="congratulations">Congratulations!!</string>
+    <string name="you_scored">you scored %1$s</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play again</string>
+</resources>
